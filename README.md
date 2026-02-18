@@ -1,2 +1,2 @@
 # Frontend-projects
-This is the start.
+This is the start. Start is hard.
